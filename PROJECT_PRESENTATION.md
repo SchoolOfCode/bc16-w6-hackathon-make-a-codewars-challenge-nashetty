@@ -54,3 +54,8 @@ Once you have everything up and running:
 ```bash
   npm t
 ```
+
+## Planning
+<img width="690" alt="Screenshot 2024-03-15 at 12 02 28" src="https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-nashetty/assets/110870202/38f07974-4545-4609-9d43-36e66186a8c0">
+<img width="703" alt="Screenshot 2024-03-15 at 12 04 52" src="https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-nashetty/assets/110870202/abe47a6e-d5bf-4589-aae1-81eb4b25cebe">
+
