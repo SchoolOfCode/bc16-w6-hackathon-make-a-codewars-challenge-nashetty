@@ -33,3 +33,24 @@ Your task is to write a function that takes an integer input and returns an arra
 - The output should be an array representating the game board as described.
 - All emojis should be correctly placed according to the specified rules.
 - If the input is outside the specified range, the function should return 0.
+
+
+## Get started
+
+To install all the dependencies:
+
+- clone the repository
+- `cd` into the folder
+
+ - run the following command to get all dependencies
+
+```bash
+  npm install
+```
+Once you have everything up and running:
+- Create your solution in `main.js`
+- Test your solution:
+
+```bash
+  npm t
+```
